@@ -1,0 +1,7 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-3\bin\Debug\Chapter1-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-3\bin\Debug\Chapter1-3.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-3\obj\x86\Debug\Chapter1-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-3\obj\x86\Debug\Chapter1-3.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter1-3\Chapter1-3\obj\x86\Debug\Chapter1-3.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter1-3\Chapter1-3\obj\x86\Debug\Chapter1-3.pdb

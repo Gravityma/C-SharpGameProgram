@@ -1,0 +1,68 @@
+PLAIN
+END
+ENDREP
+id: 5-25.0.r29/17
+type: dir
+pred: 5-25.0.r27/387
+count: 3
+text: 29 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 17
+dir 5-25.0.r29/17
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r29/487
+type: dir
+pred: 0.0.r28/325
+count: 29
+text: 29 163 311 311 01e266ffab0469125fd90e890c31a4d8
+cpath: /
+copyroot: 0 /
+
+9-25.0.r25/33382 delete-file false false /StartingGraphics/Form1.resx
+
+b-25.0.r25/33580 delete-file false false /StartingGraphics/Form1.Designer.cs
+
+p-25.0.r25/35631 delete-file false false /StartingGraphics/Form1.cs
+
+1b-25.0.r25/39286 delete-file false false /StartingGraphics/FastLoop.cs
+
+1d-25.0.r25/39487 delete-file false false /StartingGraphics/Program.cs
+
+1f-25.0.r25/39686 delete-file false false /StartingGraphics/StartingGraphics.csproj
+
+1h-25.0.r25/41266 delete-dir false false /StartingGraphics/Properties
+
+6-25.0.r25/33180 delete-file false false /StartingGraphics/PreciseTimer.cs
+
+
+487 619

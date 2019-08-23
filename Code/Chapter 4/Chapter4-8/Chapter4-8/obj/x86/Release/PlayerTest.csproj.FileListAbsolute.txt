@@ -1,0 +1,7 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\bin\Release\Chapter4-8.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\bin\Release\Chapter4-8.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\bin\Release\nunit.framework.dll
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\bin\Release\nunit.framework.xml
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\obj\x86\Release\Chapter4-8.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter4-8\obj\x86\Release\Chapter4-8.pdb

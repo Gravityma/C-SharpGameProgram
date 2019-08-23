@@ -1,0 +1,18 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\bin\Release\Chapter5-5.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\bin\Release\Chapter5-5.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\StartingGraphics.Form1.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\StartingGraphics.Properties.Resources.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\Chapter5-5.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-5\obj\x86\Release\Chapter5-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\Chapter5-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\Chapter5-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\bin\Release\Chapter5-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\bin\Release\Chapter5-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\StartingGraphics.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\StartingGraphics.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Release\GenerateResource.write.1.tlog

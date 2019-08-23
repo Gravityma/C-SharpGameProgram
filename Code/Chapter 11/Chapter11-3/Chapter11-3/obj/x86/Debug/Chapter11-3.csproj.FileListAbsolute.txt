@@ -1,0 +1,11 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\bin\Debug\Chapter11-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\bin\Debug\Chapter11-3.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Debug\Chapter11-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Debug\Chapter11-3.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 11\Chapter11-3\Chapter11-3\obj\x86\Debug\Chapter11-3.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 11\Chapter11-3\Chapter11-3\obj\x86\Debug\Chapter11-3.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 11\Chapter11-3\Chapter11-3\obj\x86\Debug\Chapter11-3.exe
+D:\开发\精通C#游戏编程\Code\Chapter 11\Chapter11-3\Chapter11-3\obj\x86\Debug\Chapter11-3.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 11\Chapter11-3\Chapter11-3\bin\Debug\Chapter11-3.exe
+D:\开发\精通C#游戏编程\Code\Chapter 11\Chapter11-3\Chapter11-3\bin\Debug\Chapter11-3.pdb

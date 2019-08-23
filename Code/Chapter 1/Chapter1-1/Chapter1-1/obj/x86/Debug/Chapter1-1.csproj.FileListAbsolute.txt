@@ -1,0 +1,7 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-1\bin\Debug\Chapter1-1.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-1\bin\Debug\Chapter1-1.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-1\obj\x86\Debug\Chapter1-1.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-1\obj\x86\Debug\Chapter1-1.pdb
+F:\图形学书籍\精通C#游戏编程-光盘\Code\Chapter 1\Chapter1-1\Chapter1-1\obj\x86\Debug\Chapter1-1.exe
+F:\图形学书籍\精通C#游戏编程-光盘\Code\Chapter 1\Chapter1-1\Chapter1-1\obj\x86\Debug\Chapter1-1.pdb

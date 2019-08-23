@@ -1,0 +1,54 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\background.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\background_p.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\bullet.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\explode.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\general_font.fnt
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\general_font.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\spaceship.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\spaceship2.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\title_font.fnt
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\title_font.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Chapter10-16.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Chapter10-16.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Engine.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Engine.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10_16.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10_16.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.exe
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\background.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\background_p.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\bullet.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\explode.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\general_font.fnt
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\general_font.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\spaceship.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\spaceship2.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\title_font.fnt
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\title_font.tga
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Chapter10-16.exe
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Chapter10-16.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Engine.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.DevIl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.OpenAl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.OpenGl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.Platform.Windows.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.Sdl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Engine.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\nunit.framework.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.DevIl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.OpenAl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.OpenGl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.Platform.Windows.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\bin\Debug\Tao.Sdl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.csprojResolveAssemblyReference.cache
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10_16.Form1.resources
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10_16.Properties.Resources.resources
+D:\开发\精通C#游戏编程\Code\Chapter 10\Chapter10-16\Chapter10-16\obj\x86\Debug\Chapter10-16.csproj.GenerateResource.Cache

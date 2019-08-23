@@ -1,0 +1,74 @@
+PLAIN
+K 11
+FastLoop.cs
+V 21
+file 11-18.0.r18/4719
+K 17
+Form1.Designer.cs
+V 19
+file 5-18.0.r18/188
+K 8
+Form1.cs
+V 20
+file j-18.0.r18/2093
+K 15
+GameLoop.csproj
+V 17
+file 2-18.0.r18/0
+K 10
+Program.cs
+V 21
+file 13-18.0.r18/4911
+K 10
+Properties
+V 20
+dir 15-18.0.r18/6417
+END
+ENDREP
+id: 0-18.0.r20/277
+type: dir
+pred: 0-18.0.r19/310
+count: 2
+text: 20 0 264 264 5ab5f0648c0bdcdbe918f9d02925c005
+cpath: /GameLoop
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 18
+dir 0-18.0.r20/277
+K 12
+GameLoop.sln
+V 21
+file 1j-18.0.r18/7328
+K 12
+GameLoop.suo
+V 21
+file 1h-18.0.r18/7090
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+END
+ENDREP
+id: 0.0.r20/682
+type: dir
+pred: 0.0.r19/716
+count: 20
+text: 20 420 249 249 91c5b5d11a458744715bca9ffde3a0df
+cpath: /
+copyroot: 0 /
+
+7-18.0.r18/1965 delete-dir false false /GameLoop/bin
+
+
+682 814

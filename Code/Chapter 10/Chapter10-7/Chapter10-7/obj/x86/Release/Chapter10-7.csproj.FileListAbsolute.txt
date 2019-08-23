@@ -1,0 +1,30 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\bin\Release\Chapter10-7.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\bin\Release\Chapter10-7.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\Chapter10_7.Form1.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\Chapter10_7.Properties.Resources.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\Chapter10-7.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter10-7\obj\x86\Release\Chapter10-7.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\Chapter10-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\Chapter10-7.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\Chapter10_7.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\Chapter10_7.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\background.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\background_p.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\general_font.fnt
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\general_font.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\spaceship.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\title_font.fnt
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\title_font.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\Chapter10-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\Chapter10-7.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\Engine.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\Engine.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter 10\Chapter10-7\Chapter10-7\bin\Release\spaceship2.tga

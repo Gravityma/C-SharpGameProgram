@@ -1,0 +1,13 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\font.fnt
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\font.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\Chapter8-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\Chapter8-7.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\bin\Release\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\Chapter8_7.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\Chapter8_7.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\Chapter8-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-7\Chapter8-7\obj\x86\Release\Chapter8-7.pdb

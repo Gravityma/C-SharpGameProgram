@@ -1,0 +1,20 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\bin\Debug\Chapter5-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\bin\Debug\Chapter5-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\StartingGraphics.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\StartingGraphics.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\Chapter5-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-5\Chapter5-5\obj\x86\Debug\Chapter5-5.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\obj\x86\Debug\Chapter5-5.exe
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\obj\x86\Debug\Chapter5-5.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Chapter5-5.exe
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Chapter5-5.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Tao.OpenGl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Tao.Platform.Windows.dll
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Tao.OpenGl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\bin\Debug\Tao.Platform.Windows.xml
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\obj\x86\Debug\StartingGraphics.Form1.resources
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\obj\x86\Debug\StartingGraphics.Properties.Resources.resources
+D:\开发\精通C#游戏编程\Code\Chapter 5\Chapter5-5\Chapter5-5\obj\x86\Debug\Chapter5-5.csproj.GenerateResource.Cache

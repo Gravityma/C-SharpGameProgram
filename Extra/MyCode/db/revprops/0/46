@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+Zero
+K 8
+svn:date
+V 27
+2010-01-17T23:22:55.063000Z
+K 7
+svn:log
+V 139
+Added batch and more efficient rendering.
+Added a font class, text class and associated test states.
+Added an FPS class and FPS test state.
+END

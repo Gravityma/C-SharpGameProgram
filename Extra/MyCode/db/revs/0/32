@@ -1,0 +1,107 @@
+PLAIN
+K 11
+FastLoop.cs
+V 21
+file 1c-30.0.r30/6935
+K 17
+Form1.Designer.cs
+V 19
+file c-30.0.r30/953
+K 8
+Form1.cs
+V 20
+file q-30.0.r30/3105
+K 10
+Form1.resx
+V 19
+file a-30.0.r30/740
+K 15
+PreciseTimer.cs
+V 19
+file 7-30.0.r30/523
+K 10
+Program.cs
+V 21
+file 1e-30.0.r30/7152
+K 10
+Properties
+V 20
+dir 1i-30.0.r30/9038
+K 23
+StartingGraphics.csproj
+V 21
+file 1g-30.0.r30/7367
+END
+ENDREP
+id: 6-30.0.r32/376
+type: dir
+pred: 6-30.0.r30/9643
+count: 1
+text: 32 0 363 363 f7274c4d7305dc655b47fddb24698eb4
+cpath: /StartingGraphics/StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 16
+StartingGraphics
+V 18
+dir 6-30.0.r32/376
+K 20
+StartingGraphics.sln
+V 19
+file 4-30.0.r30/319
+END
+ENDREP
+id: 5-25.0.r32/659
+type: dir
+pred: 5-25.0.r31/115
+count: 6
+text: 32 545 101 101 2d1b47b28e22e0de5747092ec92df8dd
+cpath: /StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 18
+dir 5-25.0.r32/659
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r32/1137
+type: dir
+pred: 0.0.r31/592
+count: 32
+text: 32 812 312 312 5706606fd4f17660f37d4e3258aaa6e6
+cpath: /
+copyroot: 0 /
+
+e-30.0.r30/2952 delete-dir false false /StartingGraphics/StartingGraphics/bin
+
+s-30.0.r30/6782 delete-dir false false /StartingGraphics/StartingGraphics/obj
+
+
+1137 1270

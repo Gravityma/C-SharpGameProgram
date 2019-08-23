@@ -1,0 +1,8 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\bin\Release\Chapter5-1.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\bin\Release\Chapter5-1.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\Chapter5-1.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\Chapter5-1.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter5-1\obj\x86\Release\GameLoop.Properties.Resources.resources

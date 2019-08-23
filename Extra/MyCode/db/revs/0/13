@@ -1,0 +1,46 @@
+PLAIN
+K 10
+PlayerTest
+V 19
+dir 1-11.0.r11/6420
+K 14
+PlayerTest.sln
+V 19
+file 1-12.0.r12/398
+END
+ENDREP
+id: 0-10.0.r13/103
+type: dir
+pred: 0-10.0.r12/736
+count: 3
+text: 13 0 90 90 8d9ac84d0e4f120a864edcda6a95eb6f
+cpath: /PlayerTest
+copyroot: 0 /
+
+PLAIN
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r13/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+END
+ENDREP
+id: 0.0.r13/381
+type: dir
+pred: 0.0.r12/1019
+count: 13
+text: 13 246 122 122 17ad151ccf4b779c2e60600bfdf1ad1a
+cpath: /
+copyroot: 0 /
+
+b-11.0.r11/4701 delete-file false false /PlayerTest/PlayerTest.suo
+
+
+381 514

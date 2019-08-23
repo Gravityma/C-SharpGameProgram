@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Zero\Documents\Visual Studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Release\Chapter4-8.exe" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-05-03" time="13:33:26">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.4200" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0" machine-name="ZEROPC" user="Zero" user-domain="ZeroPC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Zero\Documents\Visual Studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Release\Chapter4-8.exe" executed="True" result="Success" success="True" time="0.030" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="PlayerTest" executed="True" result="Success" success="True" time="0.025" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="PlayerTest" executed="True" result="Success" success="True" time="0.022" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestPlayer" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                <results>
+                  <test-case name="PlayerTest.PlayerTest.TestPlayer.BasicTest" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                  <test-case name="PlayerTest.PlayerTest.TestPlayer.MushroomEnlargesPlayer" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="PlayerTest.PlayerTest.TestPlayer.StartsLifeSmall" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

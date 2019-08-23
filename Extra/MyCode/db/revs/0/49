@@ -1,0 +1,61 @@
+id: 0-49.0.r49/0
+type: dir
+count: 0
+cpath: /GameMath
+copyroot: 0 /
+
+PLAIN
+K 5
+Fonts
+V 19
+dir 0-43.0.r47/1976
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 8
+GameMath
+V 16
+dir 0-49.0.r49/0
+K 13
+GameStructure
+V 19
+dir 0-36.0.r42/3655
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 19
+dir 0-10.0.r48/1296
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 19
+dir 5-25.0.r35/1223
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r49/509
+type: dir
+pred: 0.0.r48/1849
+count: 49
+text: 49 68 428 428 a5cef6c510e2f93fd8d2064038448503
+cpath: /
+copyroot: 0 /
+
+_0.0.t48-1c add-dir false false /GameMath
+
+
+509 641

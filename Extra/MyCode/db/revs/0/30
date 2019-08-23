@@ -1,0 +1,577 @@
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 1-30.0.r30/66
+type: file
+count: 0
+text: 25 0 3792 24576 e27a91dfdffcbcea939870aeaeb70ffd ae1e57966519d2dfcc289cccc43a551fb6b4ee1d 29-t/_3
+props: 30 0 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics.suo
+copyroot: 0 /
+
+id: 4-30.0.r30/319
+type: file
+count: 0
+text: 25 3805 380 938 66b844bd2fd4e8c2a2afacf8bdab526f 303edfb20996bd484f3a2b477a078cfc32b21b7f 29-t/_5
+cpath: /StartingGraphics/StartingGraphics.sln
+copyroot: 0 /
+
+id: 7-30.0.r30/523
+type: file
+count: 0
+text: 25 4198 399 1081 8b1023e2961b2095118351a1333253a2 9c096e8e96048404baf5ed47c9e0986995a283a4 29-t/_9
+cpath: /StartingGraphics/StartingGraphics/PreciseTimer.cs
+copyroot: 0 /
+
+id: a-30.0.r30/740
+type: file
+count: 0
+text: 25 4610 1516 5814 32a9f8db6987c2d0d6bb55fc487be5e8 76ba21e115920abbcbd61deaa666ab92b5aa18a9 29-t/_b
+cpath: /StartingGraphics/StartingGraphics/Form1.resx
+copyroot: 0 /
+
+id: c-30.0.r30/953
+type: file
+count: 0
+text: 25 6139 832 2573 5e9860447b7c07552e2ed1eb650cbd34 5f52013a9f36cd9347ac0f677a9b4680e1948ada 29-t/_d
+cpath: /StartingGraphics/StartingGraphics/Form1.Designer.cs
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: h-30.0.r30/1238
+type: file
+count: 0
+text: 25 6984 4583 30208 24f6385374ac84d1b8ca5d6238834dd5 0a837c1fcba803e8102e00e3ca213e9506dad2a4 29-t/_j
+props: 30 1172 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.pdb
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: k-30.0.r30/1592
+type: file
+count: 0
+text: 16 9394 7326 14328 f2f77b99cad96e1b6ca06169f3553f40 d8dc079a82b4942f36e8d11a0ff88b97c098a64a 29-t/_l
+props: 30 1526 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.vshost.exe
+copyroot: 0 /
+
+id: m-30.0.r30/1887
+type: file
+count: 0
+text: 16 16733 507 490 a19a2658ba69030c6ac9d11fd7d7e3c1 879dcf690e5bf1941b27cf13c8bcf72f8356c650 29-t/_n
+cpath: /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.vshost.exe.manifest
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: o-30.0.r30/2202
+type: file
+count: 0
+text: 25 11580 4601 10240 b5e1a865e1deda627ebe1926856a2e8b 6000bd0ea40ec409e8b0149b285d6a06fa006362 29-t/_p
+props: 30 2136 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.exe
+copyroot: 0 /
+
+PLAIN
+K 20
+StartingGraphics.exe
+V 20
+file o-30.0.r30/2202
+K 20
+StartingGraphics.pdb
+V 20
+file h-30.0.r30/1238
+K 27
+StartingGraphics.vshost.exe
+V 20
+file k-30.0.r30/1592
+K 36
+StartingGraphics.vshost.exe.manifest
+V 20
+file m-30.0.r30/1887
+END
+ENDREP
+id: f-30.0.r30/2739
+type: dir
+count: 0
+text: 30 2491 235 235 31e4b9b6e7155d2ed2e940c6b88d55f6
+cpath: /StartingGraphics/StartingGraphics/bin/Debug
+copyroot: 0 /
+
+PLAIN
+K 5
+Debug
+V 19
+dir f-30.0.r30/2739
+END
+ENDREP
+id: e-30.0.r30/2952
+type: dir
+count: 0
+text: 30 2900 39 39 8025b7138ec305a4af26879bca1dd0bc
+cpath: /StartingGraphics/StartingGraphics/bin
+copyroot: 0 /
+
+id: q-30.0.r30/3105
+type: file
+count: 0
+text: 25 16194 307 642 e12a756c58e77f8e56cbef64f53e0f0f 72b34c0969e47950a60c6f0bc75b940d446b818a 29-t/_r
+cpath: /StartingGraphics/StartingGraphics/Form1.cs
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: v-30.0.r30/3382
+type: file
+count: 0
+text: 25 16514 1792 7194 625cd852753c236cd3ada2a1f8990a83 e83db07221c52d55c75abb6d94729cc183a0e142 29-t/_x
+props: 30 3316 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/ResolveAssemblyReference.cache
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: y-30.0.r30/3746
+type: file
+count: 0
+text: 25 6984 4583 30208 24f6385374ac84d1b8ca5d6238834dd5 0a837c1fcba803e8102e00e3ca213e9506dad2a4 29-t/_z
+props: 30 3680 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.pdb
+copyroot: 0 /
+
+id: 10-30.0.r30/4034
+type: file
+count: 0
+text: 25 22915 210 1019 bdde2a855df029f39dbbaa4ea866e396 0bd1bf7d02d1b8fd7b7b2d2ace9f23d20f335847 29-t/_11
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.csproj.FileListAbsolute.txt
+copyroot: 0 /
+
+id: 12-30.0.r30/4294
+type: dir
+count: 0
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/Refactor
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 13-30.0.r30/4476
+type: file
+count: 0
+text: 16 17641 197 180 d85fe5b9a2e22066b1d7dc89c16ee527 78147369bcac902b8aefbe59e26852e0e179bfb6 29-t/_14
+props: 30 4410 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.Form1.resources
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 15-30.0.r30/4842
+type: file
+count: 0
+text: 16 17641 197 180 d85fe5b9a2e22066b1d7dc89c16ee527 78147369bcac902b8aefbe59e26852e0e179bfb6 29-t/_16
+props: 30 4776 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.Properties.Resources.resources
+copyroot: 0 /
+
+id: 17-30.0.r30/5157
+type: dir
+count: 0
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/TempPE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 18-30.0.r30/5337
+type: file
+count: 0
+text: 25 11580 4601 10240 b5e1a865e1deda627ebe1926856a2e8b 6000bd0ea40ec409e8b0149b285d6a06fa006362 29-t/_19
+props: 30 5271 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.exe
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 1a-30.0.r30/5694
+type: file
+count: 0
+text: 25 27752 476 847 d048657127dbf1765ee26d2772163d2a 17c059b4b80feff7d508c904bcc961e08b40e841 29-t/_1b
+props: 30 5628 53 0 113136892f2137aa0116093a524ade0b
+cpath: /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.csproj.GenerateResource.Cache
+copyroot: 0 /
+
+PLAIN
+K 8
+Refactor
+V 20
+dir 12-30.0.r30/4294
+K 30
+ResolveAssemblyReference.cache
+V 20
+file v-30.0.r30/3382
+K 32
+StartingGraphics.Form1.resources
+V 21
+file 13-30.0.r30/4476
+K 47
+StartingGraphics.Properties.Resources.resources
+V 21
+file 15-30.0.r30/4842
+K 44
+StartingGraphics.csproj.FileListAbsolute.txt
+V 21
+file 10-30.0.r30/4034
+K 46
+StartingGraphics.csproj.GenerateResource.Cache
+V 21
+file 1a-30.0.r30/5694
+K 20
+StartingGraphics.exe
+V 21
+file 18-30.0.r30/5337
+K 20
+StartingGraphics.pdb
+V 20
+file y-30.0.r30/3746
+K 6
+TempPE
+V 20
+dir 17-30.0.r30/5157
+END
+ENDREP
+id: t-30.0.r30/6569
+type: dir
+count: 0
+text: 30 6008 548 548 4669db6f23511dbf558c70873f057a9e
+cpath: /StartingGraphics/StartingGraphics/obj/Debug
+copyroot: 0 /
+
+PLAIN
+K 5
+Debug
+V 19
+dir t-30.0.r30/6569
+END
+ENDREP
+id: s-30.0.r30/6782
+type: dir
+count: 0
+text: 30 6730 39 39 3c8231d179bc5570abda2a8ac770fa75
+cpath: /StartingGraphics/StartingGraphics/obj
+copyroot: 0 /
+
+id: 1c-30.0.r30/6935
+type: file
+count: 0
+text: 25 28241 629 1515 6ee8c5a0f90dd8949c1a7b1a3929865d 346ce29a85d97b5afd4f0712507be24f2fb859e1 29-t/_1d
+cpath: /StartingGraphics/StartingGraphics/FastLoop.cs
+copyroot: 0 /
+
+id: 1e-30.0.r30/7152
+type: file
+count: 0
+text: 25 28883 340 643 137e2ec5bb68b240661d81399afbb403 04225b6e7f159de04798a75efa37b46ef461b600 29-t/_1f
+cpath: /StartingGraphics/StartingGraphics/Program.cs
+copyroot: 0 /
+
+id: 1g-30.0.r30/7367
+type: file
+count: 0
+text: 25 29236 1289 4078 73cb4c1b17f74002704c59212296a2ab bf28a2a17c7a65f1d9e6729b842211e1be80d58f 29-t/_1h
+cpath: /StartingGraphics/StartingGraphics/StartingGraphics.csproj
+copyroot: 0 /
+
+id: 1j-30.0.r30/7597
+type: file
+count: 0
+text: 25 30538 667 1462 1555d0efb821623f1884c5387220b0da f5d571df86c77a8f0328d93b3566772bcf444862 29-t/_1l
+cpath: /StartingGraphics/StartingGraphics/Properties/AssemblyInfo.cs
+copyroot: 0 /
+
+id: 1m-30.0.r30/7829
+type: file
+count: 0
+text: 16 27874 266 249 8c0f00d7d9b0046695a0255f1b11b061 5e1d04de66ffcc5dfd813530ab6992e6daaae417 29-t/_1n
+cpath: /StartingGraphics/StartingGraphics/Properties/Settings.settings
+copyroot: 0 /
+
+id: 1o-30.0.r30/8062
+type: file
+count: 0
+text: 25 31218 497 1101 5d9ddade2cfc94c7a386cc4f571133bc 4312d16d24e8a1ec8b44b296cd393f711f58aa73 29-t/_1p
+cpath: /StartingGraphics/StartingGraphics/Properties/Settings.Designer.cs
+copyroot: 0 /
+
+id: 1q-30.0.r30/8299
+type: file
+count: 0
+text: 16 28660 1484 5612 0cd8c971317d19bbed44757809bcb92b 47b15748ecc8e952c5935170090db7c269ce4b4f 29-t/_1r
+cpath: /StartingGraphics/StartingGraphics/Properties/Resources.resx
+copyroot: 0 /
+
+id: 1s-30.0.r30/8531
+type: file
+count: 0
+text: 25 31728 941 2861 220a8a586fbdc152f65b23634046f89e df5711d240fd929ca4b7b430189e4493a6b66b83 29-t/_1t
+cpath: /StartingGraphics/StartingGraphics/Properties/Resources.Designer.cs
+copyroot: 0 /
+
+PLAIN
+K 15
+AssemblyInfo.cs
+V 21
+file 1j-30.0.r30/7597
+K 21
+Resources.Designer.cs
+V 21
+file 1s-30.0.r30/8531
+K 14
+Resources.resx
+V 21
+file 1q-30.0.r30/8299
+K 20
+Settings.Designer.cs
+V 21
+file 1o-30.0.r30/8062
+K 17
+Settings.settings
+V 21
+file 1m-30.0.r30/7829
+END
+ENDREP
+id: 1i-30.0.r30/9038
+type: dir
+count: 0
+text: 30 8769 256 256 2d19ad251407173b55b258b187f51766
+cpath: /StartingGraphics/StartingGraphics/Properties
+copyroot: 0 /
+
+PLAIN
+K 11
+FastLoop.cs
+V 21
+file 1c-30.0.r30/6935
+K 17
+Form1.Designer.cs
+V 19
+file c-30.0.r30/953
+K 8
+Form1.cs
+V 20
+file q-30.0.r30/3105
+K 10
+Form1.resx
+V 19
+file a-30.0.r30/740
+K 15
+PreciseTimer.cs
+V 19
+file 7-30.0.r30/523
+K 10
+Program.cs
+V 21
+file 1e-30.0.r30/7152
+K 10
+Properties
+V 20
+dir 1i-30.0.r30/9038
+K 23
+StartingGraphics.csproj
+V 21
+file 1g-30.0.r30/7367
+K 3
+bin
+V 19
+dir e-30.0.r30/2952
+K 3
+obj
+V 19
+dir s-30.0.r30/6782
+END
+ENDREP
+id: 6-30.0.r30/9643
+type: dir
+count: 0
+text: 30 9201 429 429 c0e2c265599e7954d48b877a6738512d
+cpath: /StartingGraphics/StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 16
+StartingGraphics
+V 19
+dir 6-30.0.r30/9643
+K 20
+StartingGraphics.sln
+V 19
+file 4-30.0.r30/319
+K 20
+StartingGraphics.suo
+V 18
+file 1-30.0.r30/66
+END
+ENDREP
+id: 5-25.0.r30/9959
+type: dir
+pred: 5-25.0.r29/17
+count: 4
+text: 30 9794 152 152 c9dfb442fbee1b65d50a1fc12364482e
+cpath: /StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 19
+dir 5-25.0.r30/9959
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r30/10439
+type: dir
+pred: 0.0.r29/487
+count: 30
+text: 30 10113 313 313 82319544643a10a105f9d4131c8a470b
+cpath: /
+copyroot: 0 /
+
+_13.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.Form1.resources
+
+_e.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/bin
+
+_1s.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Properties/Resources.Designer.cs
+
+_1e.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Program.cs
+
+_1a.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.csproj.GenerateResource.Cache
+
+_y.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.pdb
+
+_m.0.t29-t add-file true false /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.vshost.exe.manifest
+
+_1q.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Properties/Resources.resx
+
+_q.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Form1.cs
+
+_15.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.Properties.Resources.resources
+
+_17.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/obj/Debug/TempPE
+
+_1j.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Properties/AssemblyInfo.cs
+
+_4.0.t29-t add-file true false /StartingGraphics/StartingGraphics.sln
+
+_1i.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/Properties
+
+_18.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.exe
+
+_6.0.t29-t add-dir false false /StartingGraphics/StartingGraphics
+
+_t.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/obj/Debug
+
+_v.0.t29-t add-file true true /StartingGraphics/StartingGraphics/obj/Debug/ResolveAssemblyReference.cache
+
+_s.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/obj
+
+_1g.0.t29-t add-file true false /StartingGraphics/StartingGraphics/StartingGraphics.csproj
+
+_h.0.t29-t add-file true true /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.pdb
+
+_k.0.t29-t add-file true true /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.vshost.exe
+
+_c.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Form1.Designer.cs
+
+_o.0.t29-t add-file true true /StartingGraphics/StartingGraphics/bin/Debug/StartingGraphics.exe
+
+_1m.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Properties/Settings.settings
+
+_1c.0.t29-t add-file true false /StartingGraphics/StartingGraphics/FastLoop.cs
+
+_f.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/bin/Debug
+
+_1o.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Properties/Settings.Designer.cs
+
+_7.0.t29-t add-file true false /StartingGraphics/StartingGraphics/PreciseTimer.cs
+
+_10.0.t29-t add-file true false /StartingGraphics/StartingGraphics/obj/Debug/StartingGraphics.csproj.FileListAbsolute.txt
+
+_a.0.t29-t add-file true false /StartingGraphics/StartingGraphics/Form1.resx
+
+_12.0.t29-t add-dir false false /StartingGraphics/StartingGraphics/obj/Debug/Refactor
+
+_1.0.t29-t add-file true true /StartingGraphics/StartingGraphics.suo
+
+
+10439 10575

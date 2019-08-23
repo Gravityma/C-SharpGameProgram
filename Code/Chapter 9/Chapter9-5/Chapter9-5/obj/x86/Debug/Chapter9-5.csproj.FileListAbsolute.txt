@@ -1,0 +1,40 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\Chapter9-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\Chapter9-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\Engine.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\Engine.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9_5.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\soundeffect1.wav
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\soundeffect2.wav
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\spaceship.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-5\Chapter9-5\bin\Debug\spaceship2.tga
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.exe
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\soundeffect1.wav
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\soundeffect2.wav
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\spaceship.tga
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\spaceship2.tga
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Chapter9-5.exe
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Chapter9-5.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Engine.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.DevIl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.OpenAl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.OpenGl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.Platform.Windows.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.Sdl.dll
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Engine.pdb
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\nunit.framework.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.DevIl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.OpenAl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.OpenGl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.Platform.Windows.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\bin\Debug\Tao.Sdl.xml
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.csprojResolveAssemblyReference.cache
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9_5.Properties.Resources.resources
+D:\开发\精通C#游戏编程\Code\Chapter 9\Chapter9-5\Chapter9-5\obj\x86\Debug\Chapter9-5.csproj.GenerateResource.Cache

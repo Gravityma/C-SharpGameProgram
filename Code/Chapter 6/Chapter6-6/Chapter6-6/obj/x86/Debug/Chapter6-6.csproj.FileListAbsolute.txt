@@ -1,0 +1,12 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\bin\Debug\Chapter6-6.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\bin\Debug\Chapter6-6.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\bin\Debug\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\bin\Debug\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\Chapter6_6.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\Chapter6_6.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\Chapter6-6.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\obj\x86\Debug\Chapter6-6.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-6\Chapter6-6\bin\Debug\face.tif

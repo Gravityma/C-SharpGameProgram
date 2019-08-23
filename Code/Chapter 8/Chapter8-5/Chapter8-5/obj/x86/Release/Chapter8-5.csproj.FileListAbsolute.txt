@@ -1,0 +1,5 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-5\Chapter8-5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-5\Chapter8-5\obj\x86\Release\Chapter8_5.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-5\Chapter8-5\obj\x86\Release\Chapter8_5.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-5\Chapter8-5\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter8-5\Chapter8-5\obj\x86\Release\GenerateResource.write.1.tlog

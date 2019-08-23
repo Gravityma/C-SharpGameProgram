@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+Zero
+K 8
+svn:date
+V 27
+2009-10-25T14:49:56.512373Z
+K 7
+svn:log
+V 111
+Added the PreciseTimer class
+Modified the game loop so it passes an elapsed frame time to it's update callback.
+END

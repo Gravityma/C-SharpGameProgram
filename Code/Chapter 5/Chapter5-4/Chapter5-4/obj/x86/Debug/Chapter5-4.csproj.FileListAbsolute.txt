@@ -1,0 +1,9 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\bin\Debug\Chapter5-4.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\bin\Debug\Chapter5-4.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\StartingGraphics.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\StartingGraphics.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\Chapter5-4.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-4\Chapter5-4\obj\x86\Debug\Chapter5-4.pdb

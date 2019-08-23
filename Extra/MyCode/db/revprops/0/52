@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+Zero
+K 8
+svn:date
+V 27
+2010-02-06T13:16:05.180800Z
+K 7
+svn:log
+V 140
+Finished the Vector class.
+Some Vector class tests added.
+Added graphing state.
+Added empty circle state.
+Added simple special effect state.
+END

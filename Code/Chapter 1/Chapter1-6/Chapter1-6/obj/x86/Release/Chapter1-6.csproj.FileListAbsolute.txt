@@ -1,0 +1,5 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-6\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-6\bin\Release\Chapter1-6.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-6\bin\Release\Chapter1-6.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-6\obj\x86\Release\Chapter1-6.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter1-6\obj\x86\Release\Chapter1-6.pdb

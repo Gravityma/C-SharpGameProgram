@@ -1,0 +1,5 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\bin\Release\Chapter11-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\bin\Release\Chapter11-3.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Release\Chapter11-3.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter11-3\obj\x86\Release\Chapter11-3.pdb

@@ -1,0 +1,14 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\Chapter9-1.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\Engine.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\Engine.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\Chapter9-1.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\Chapter9-1.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\Chapter9-1.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\Chapter9_1.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\spaceship.tga
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter9-1\Chapter9-1\bin\Debug\spaceship2.tga

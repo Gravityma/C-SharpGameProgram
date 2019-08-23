@@ -1,0 +1,7 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Debug\Chapter4-8.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Debug\Chapter4-8.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Debug\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\bin\Debug\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\obj\x86\Debug\Chapter4-8.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-8\Chapter4-8\obj\x86\Debug\Chapter4-8.pdb

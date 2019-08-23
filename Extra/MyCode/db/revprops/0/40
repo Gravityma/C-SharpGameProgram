@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+Zero
+K 8
+svn:date
+V 27
+2010-01-02T17:35:42.757000Z
+K 7
+svn:log
+V 70
+Added the texture manager, texture definition and an example texture.
+
+END

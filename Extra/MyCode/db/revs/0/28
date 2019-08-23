@@ -1,0 +1,45 @@
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 18
+dir 5-25.0.r27/387
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r28/325
+type: dir
+pred: 0.0.r27/953
+count: 28
+text: 28 0 312 312 1c73d3f8fa20e8d8706a57134c087cd8
+cpath: /
+copyroot: 0 /
+
+1h-18.0.r18/7090 delete-file false false /GameLoop.suo
+
+1j-18.0.r18/7328 delete-file false false /GameLoop.sln
+
+
+325 455

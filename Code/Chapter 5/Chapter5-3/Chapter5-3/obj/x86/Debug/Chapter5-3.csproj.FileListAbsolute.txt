@@ -1,0 +1,10 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\bin\Debug\Chapter5-3.exe.config
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\bin\Debug\Chapter5-3.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\bin\Debug\Chapter5-3.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\GameLoop.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\GameLoop.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\Chapter5-3.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter5-3\Chapter5-3\obj\x86\Debug\Chapter5-3.pdb

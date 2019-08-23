@@ -1,0 +1,14 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\bin\Release\Engine.dll
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\bin\Release\Engine.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\bin\Release\nunit.framework.dll
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\bin\Release\nunit.framework.xml
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\obj\Release\Engine.dll
+C:\Users\Zero\AppData\Local\Temporary Projects\Engine\obj\Release\Engine.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Engine\Engine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Engine\Engine\obj\Release\Engine.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Engine\Engine\obj\Release\Engine.pdb
+C:\Users\Zero\Documents\Visual Studio 2010\Projects\Engine\Engine\bin\Release\Engine.dll
+C:\Users\Zero\Documents\Visual Studio 2010\Projects\Engine\Engine\bin\Release\Engine.pdb
+C:\Users\Zero\Documents\Visual Studio 2010\Projects\Engine\Engine\bin\Release\nunit.framework.dll
+C:\Users\Zero\Documents\Visual Studio 2010\Projects\Engine\Engine\bin\Release\nunit.framework.xml

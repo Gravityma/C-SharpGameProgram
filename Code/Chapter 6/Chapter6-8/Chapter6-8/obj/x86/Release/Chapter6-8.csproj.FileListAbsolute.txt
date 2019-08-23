@@ -1,0 +1,13 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\Chapter6-8.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\Chapter6-8.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\Chapter6_8.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\Chapter6_8.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\Chapter6-8.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\obj\x86\Release\Chapter6-8.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\face.tif
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-8\Chapter6-8\bin\Release\face_alpha.tif

@@ -1,0 +1,5 @@
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-7\Chapter4-7\bin\Release\Chapter4-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-7\Chapter4-7\bin\Release\Chapter4-7.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-7\Chapter4-7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-7\Chapter4-7\obj\x86\Release\Chapter4-7.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter4-7\Chapter4-7\obj\x86\Release\Chapter4-7.pdb

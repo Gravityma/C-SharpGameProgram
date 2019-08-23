@@ -1,0 +1,66 @@
+PLAIN
+K 13
+GameStructure
+V 21
+dir 7-36.0.r36/144510
+K 17
+GameStructure.sln
+V 22
+file 5-36.0.r36/132626
+END
+ENDREP
+id: 0-36.0.r37/114
+type: dir
+pred: 0-36.0.r36/144824
+count: 1
+text: 37 0 101 101 6f52e547e3e80b1e2f2f2d6bd7f77fba
+cpath: /GameStructure
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 13
+GameStructure
+V 18
+dir 0-36.0.r37/114
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 19
+dir 5-25.0.r35/1223
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r37/634
+type: dir
+pred: 0.0.r36/145331
+count: 37
+text: 37 265 356 356 a04907ba52066f38f083e6c133a459ce
+cpath: /
+copyroot: 0 /
+
+2-36.0.r36/132371 delete-file false false /GameStructure/GameStructure.suo
+
+
+634 769

@@ -1,0 +1,101 @@
+PLAIN
+K 15
+AssemblyInfo.cs
+V 21
+file 16-18.0.r18/5101
+K 21
+Resources.Designer.cs
+V 21
+file 1f-18.0.r18/5935
+K 14
+Resources.resx
+V 21
+file 1d-18.0.r18/5728
+K 20
+Settings.Designer.cs
+V 21
+file 1b-18.0.r18/5516
+END
+ENDREP
+id: 15-18.0.r21/219
+type: dir
+pred: 15-18.0.r18/6417
+count: 1
+text: 21 0 206 206 f44e391ccd5c39bc2a7290214c9ebe92
+cpath: /GameLoop/Properties
+copyroot: 0 /
+
+PLAIN
+K 11
+FastLoop.cs
+V 21
+file 11-18.0.r18/4719
+K 17
+Form1.Designer.cs
+V 19
+file 5-18.0.r18/188
+K 8
+Form1.cs
+V 20
+file j-18.0.r18/2093
+K 15
+GameLoop.csproj
+V 17
+file 2-18.0.r18/0
+K 10
+Program.cs
+V 21
+file 13-18.0.r18/4911
+K 10
+Properties
+V 19
+dir 15-18.0.r21/219
+END
+ENDREP
+id: 0-18.0.r21/652
+type: dir
+pred: 0-18.0.r20/277
+count: 3
+text: 21 376 263 263 e0216fe90835e174e06d8191acc8dff6
+cpath: /GameLoop
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 18
+dir 0-18.0.r21/652
+K 12
+GameLoop.sln
+V 21
+file 1j-18.0.r18/7328
+K 12
+GameLoop.suo
+V 21
+file 1h-18.0.r18/7090
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+END
+ENDREP
+id: 0.0.r21/1059
+type: dir
+pred: 0.0.r20/682
+count: 21
+text: 21 797 249 249 78613a37914f19097f40915af992c22d
+cpath: /
+copyroot: 0 /
+
+19-18.0.r18/5308 delete-file false false /GameLoop/Properties/Settings.settings
+
+
+1059 1192

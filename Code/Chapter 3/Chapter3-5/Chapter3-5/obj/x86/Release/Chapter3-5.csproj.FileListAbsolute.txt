@@ -1,0 +1,5 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter3-5\bin\Release\Chapter3-5.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter3-5\bin\Release\Chapter3-5.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter3-5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter3-5\obj\x86\Release\Chapter3-5.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter3-5\obj\x86\Release\Chapter3-5.pdb

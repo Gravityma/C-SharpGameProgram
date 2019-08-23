@@ -1,0 +1,22 @@
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\bin\Release\Chapter6-4.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\bin\Release\Chapter6-4.pdb
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\bin\Release\nunit.framework.dll
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\bin\Release\nunit.framework.xml
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\Chapter6_4.Form1.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\Chapter6_4.Properties.Resources.resources
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\Chapter6-4.exe
+C:\Users\Zero\AppData\Local\Temporary Projects\Chapter6-4\obj\x86\Release\Chapter6-4.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\Chapter6-4.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\Chapter6-4.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\bin\Release\Chapter6-4.exe
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\bin\Release\Chapter6-4.pdb
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\bin\Release\nunit.framework.dll
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\bin\Release\nunit.framework.xml
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\Chapter6_4.Form1.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\Chapter6_4.Properties.Resources.resources
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Zero\documents\visual studio 2010\Projects\Chapter6-4\Chapter6-4\obj\x86\Release\GenerateResource.write.1.tlog

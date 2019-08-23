@@ -1,0 +1,62 @@
+PLAIN
+K 16
+StartingGraphics
+V 19
+dir 6-30.0.r30/9643
+K 20
+StartingGraphics.sln
+V 19
+file 4-30.0.r30/319
+END
+ENDREP
+id: 5-25.0.r31/115
+type: dir
+pred: 5-25.0.r30/9959
+count: 5
+text: 31 0 102 102 746f4ec24495fbbf0907a4f5ec739db5
+cpath: /StartingGraphics
+copyroot: 0 /
+
+PLAIN
+K 8
+GameLoop
+V 19
+dir 0-18.0.r24/1232
+K 10
+HelloWorld
+V 16
+dir 0-1.0.r9/705
+K 10
+PlayerTest
+V 18
+dir 0-10.0.r17/103
+K 11
+Refactoring
+V 17
+dir 0-4.0.r8/2007
+K 16
+StartingGraphics
+V 18
+dir 5-25.0.r31/115
+K 20
+StartingGraphics.sln
+V 21
+file 3-25.0.r25/32991
+K 20
+StartingGraphics.suo
+V 21
+file 0-25.0.r25/32748
+END
+ENDREP
+id: 0.0.r31/592
+type: dir
+pred: 0.0.r30/10439
+count: 31
+text: 31 267 312 312 3ee04fbe714ff0ecff440d10ac0f0861
+cpath: /
+copyroot: 0 /
+
+1-30.0.r30/66 delete-file false false /StartingGraphics/StartingGraphics.suo
+
+
+592 726
